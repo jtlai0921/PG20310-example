@@ -1,0 +1,24 @@
+//
+//  AnimKey.h
+//  Prog07-01
+//
+//  Created by SAKAI Yuji on 10/01/14.
+//  Copyright 2010 __MyCompanyName__. All rights reserved.
+//
+
+#import "Elem3D.h"
+
+typedef enum {
+	AKT_NONE,
+	AKT_POSITION3,
+	AKT_YAWPITCHROLL
+} ANIMKEY_TYPE;
+
+@interface AnimKey : NSObject {
+	ANIMKEY_TYPE akType;
+	float timeKey;
+}
+@property (nonatomic, readonly) ANIMKEY_TYPE akType;
+@property (nonatomic) float timeKey;
+
+@end

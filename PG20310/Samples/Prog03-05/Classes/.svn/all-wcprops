@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mprepos/!svn/ver/548/GLESBook/trunk/GLESBook/prog/Prog03-05/Classes
+END
+Prog03_05AppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mprepos/!svn/ver/548/GLESBook/trunk/GLESBook/prog/Prog03-05/Classes/Prog03_05AppDelegate.h
+END
+ESRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mprepos/!svn/ver/548/GLESBook/trunk/GLESBook/prog/Prog03-05/Classes/ESRenderer.h
+END
+ES1Renderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mprepos/!svn/ver/548/GLESBook/trunk/GLESBook/prog/Prog03-05/Classes/ES1Renderer.h
+END
+Prog03_05AppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mprepos/!svn/ver/548/GLESBook/trunk/GLESBook/prog/Prog03-05/Classes/Prog03_05AppDelegate.m
+END
+ES2Renderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mprepos/!svn/ver/548/GLESBook/trunk/GLESBook/prog/Prog03-05/Classes/ES2Renderer.h
+END
+EAGLView.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mprepos/!svn/ver/548/GLESBook/trunk/GLESBook/prog/Prog03-05/Classes/EAGLView.h
+END
+ES1Renderer.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mprepos/!svn/ver/548/GLESBook/trunk/GLESBook/prog/Prog03-05/Classes/ES1Renderer.m
+END
+ES2Renderer.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mprepos/!svn/ver/548/GLESBook/trunk/GLESBook/prog/Prog03-05/Classes/ES2Renderer.m
+END
+EAGLView.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mprepos/!svn/ver/548/GLESBook/trunk/GLESBook/prog/Prog03-05/Classes/EAGLView.m
+END

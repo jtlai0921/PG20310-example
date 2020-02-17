@@ -1,0 +1,42 @@
+8
+
+dir
+647
+https://www.atamaga.com/mprepos/GLESBook/trunk/GLESBook/prog/script
+https://www.atamaga.com/mprepos
+
+
+
+2009-12-29T19:36:07.381118Z
+598
+sakai
+
+
+svn:special svn:externals svn:needs-lock
+
+ch05gen.pl
+file
+
+
+
+
+2009-12-29T18:35:34.000000Z
+00ca2cfb645fbb38519928179e459067
+2009-12-29T19:36:07.381118Z
+598
+sakai
+has-props
+
+xtoxml.pl
+file
+
+
+
+
+2009-12-29T18:55:10.000000Z
+e60f1ee326f9520d5616ce93886894fe
+2009-12-29T19:36:07.381118Z
+598
+sakai
+has-props
+

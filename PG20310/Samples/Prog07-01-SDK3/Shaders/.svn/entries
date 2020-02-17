@@ -1,0 +1,40 @@
+8
+
+dir
+650
+https://www.atamaga.com/mprepos/GLESBook/trunk/GLESBook/prog/Prog07-01/Shaders
+https://www.atamaga.com/mprepos
+
+
+
+2010-01-14T05:55:06.537245Z
+650
+sakai
+
+
+svn:special svn:externals svn:needs-lock
+
+Shader.fsh
+file
+
+
+
+
+2010-01-14T02:41:41.000000Z
+d8e77445838dc7475a80d4abcf4f2bf3
+2010-01-14T05:55:06.537245Z
+650
+sakai
+
+Shader.vsh
+file
+
+
+
+
+2010-01-14T02:41:41.000000Z
+e3fd267893d403770b610d3350a74ee2
+2010-01-14T05:55:06.537245Z
+650
+sakai
+

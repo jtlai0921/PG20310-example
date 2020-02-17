@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animation name="sample-anim-01" loop="yes">
+	<!--
+	<animkey time="0.0" type="position">
+		<vector3></vector3>
+	</animkey>
+	<animkey time="0.0" type="position">
+		<vector4></vector4>
+	</animkey>
+	<animkey time="0.0" type="yawpitchroll">
+		<yaw></yaw>
+		<pitch></pitch>
+		<roll></roll>
+	</animkey>
+	<animkey time="0.0" type="matrix">
+		<matrix></matrix>
+	</animkey>
+	-->
+	<animkey time="0.0" type="position3">1.0, 0.0, 0.0</animkey>
+	<animkey time="5.0" type="position3">0.0, 1.0, 0.0</animkey>
+	<animkey time="10.0" type="position3">-1.0, 0.0, 0.0</animkey>
+	<animkey time="15.0" type="position3">0.0, -1.0, 0.0</animkey>
+	<animkey time="20.0" type="position3">1.0, 0.0, 0.0</animkey>
+</animation>

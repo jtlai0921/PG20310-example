@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mesh name="sample mesh">
+	<numOfVertices>4</numOfVertices>
+	<vertices>
+		<vector3>-1.0,  1.0, 0.0</vector3>
+		<vector3> 1.0,  1.0, 0.0</vector3>
+		<vector3> 1.0, -1.0, 0.0</vector3>
+		<vector3>-1.0, -1.0, 0.0</vector3>
+	</vertices>
+	<normals>
+		<vector3>0.0, 0.0, -1.0</vector3>
+		<vector3>0.0, 0.0, -1.0</vector3>
+		<vector3>0.0, 0.0, -1.0</vector3>
+		<vector3>0.0, 0.0, -1.0</vector3>
+	</normals>
+	<texCoords>
+		<vector2>1.0, 0.0</vector2>
+		<vector2>0.0, 0.0</vector2>
+		<vector2>0.0, 1.0</vector2>
+		<vector2>1.0, 1.0</vector2>
+	</texCoords>
+	<indices num="6">
+		0, 1, 2, 0, 2, 3
+	</indices>
+	<material>
+		<ambient>0.2, 0.2, 0.2, 1.0</ambient>
+		<diffuse>0.8, 0.8, 0.8, 1.0</diffuse>
+		<specular>1.0, 1.0, 1.0, 1.0</specular>
+		<emission>0.0, 0.0, 0.0, 0.0</emission>
+		<shininess>1.0</shininess>
+	</material>
+	<texture>sample_tex.png</texture>
+</mesh>

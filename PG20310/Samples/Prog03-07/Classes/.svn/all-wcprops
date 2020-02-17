@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mprepos/!svn/ver/555/GLESBook/trunk/GLESBook/prog/Prog03-07/Classes
+END
+Prog03_07AppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mprepos/!svn/ver/555/GLESBook/trunk/GLESBook/prog/Prog03-07/Classes/Prog03_07AppDelegate.h
+END
+ESRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mprepos/!svn/ver/555/GLESBook/trunk/GLESBook/prog/Prog03-07/Classes/ESRenderer.h
+END
+ES1Renderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mprepos/!svn/ver/555/GLESBook/trunk/GLESBook/prog/Prog03-07/Classes/ES1Renderer.h
+END
+ES2Renderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mprepos/!svn/ver/555/GLESBook/trunk/GLESBook/prog/Prog03-07/Classes/ES2Renderer.h
+END
+Prog03_07AppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mprepos/!svn/ver/555/GLESBook/trunk/GLESBook/prog/Prog03-07/Classes/Prog03_07AppDelegate.m
+END
+EAGLView.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mprepos/!svn/ver/555/GLESBook/trunk/GLESBook/prog/Prog03-07/Classes/EAGLView.h
+END
+MySpotLight.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mprepos/!svn/ver/555/GLESBook/trunk/GLESBook/prog/Prog03-07/Classes/MySpotLight.h
+END
+ES1Renderer.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mprepos/!svn/ver/555/GLESBook/trunk/GLESBook/prog/Prog03-07/Classes/ES1Renderer.m
+END
+ES2Renderer.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mprepos/!svn/ver/555/GLESBook/trunk/GLESBook/prog/Prog03-07/Classes/ES2Renderer.m
+END
+EAGLView.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mprepos/!svn/ver/555/GLESBook/trunk/GLESBook/prog/Prog03-07/Classes/EAGLView.m
+END
+MySpotLight.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mprepos/!svn/ver/555/GLESBook/trunk/GLESBook/prog/Prog03-07/Classes/MySpotLight.m
+END

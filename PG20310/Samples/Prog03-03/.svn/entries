@@ -1,0 +1,85 @@
+8
+
+dir
+647
+https://www.atamaga.com/mprepos/GLESBook/trunk/GLESBook/prog/Prog03-03
+https://www.atamaga.com/mprepos
+
+
+
+2009-12-01T08:30:17.316926Z
+586
+sakai
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2be0e29a-674b-4c60-93c3-8e0fde7138ed
+
+main.m
+file
+
+
+
+
+2009-10-19T06:46:26.000000Z
+3770458e18c3cee42d2df9154f8ee8f0
+2009-10-19T08:30:24.462576Z
+541
+sakai
+
+Prog03_03-Info.plist
+file
+
+
+
+
+2009-10-19T06:46:26.000000Z
+0b7c5cff346955b6276eb6e1438e7464
+2009-10-19T08:30:24.462576Z
+541
+sakai
+
+Prog03_03_Prefix.pch
+file
+
+
+
+
+2009-10-19T06:46:26.000000Z
+cc8196d33de111dc9fe8b81b6bba90f0
+2009-10-19T08:30:24.462576Z
+541
+sakai
+
+Prog03-03.xcodeproj
+dir
+
+Shaders
+dir
+
+Classes
+dir
+
+MainWindow.xib
+file
+
+
+
+
+2009-10-19T06:46:26.000000Z
+d3371b64c0811e770effddb11f01a5a2
+2009-10-19T08:30:24.462576Z
+541
+sakai
+

@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mprepos/!svn/ver/634/GLESBook/trunk/GLESBook/prog/Prog06-01/Classes
+END
+Mesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mprepos/!svn/ver/616/GLESBook/trunk/GLESBook/prog/Prog06-01/Classes/Mesh.h
+END
+Obj3DLoader.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mprepos/!svn/ver/616/GLESBook/trunk/GLESBook/prog/Prog06-01/Classes/Obj3DLoader.m
+END
+ESRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mprepos/!svn/ver/610/GLESBook/trunk/GLESBook/prog/Prog06-01/Classes/ESRenderer.h
+END
+Obj3D.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mprepos/!svn/ver/628/GLESBook/trunk/GLESBook/prog/Prog06-01/Classes/Obj3D.h
+END
+Mesh.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mprepos/!svn/ver/616/GLESBook/trunk/GLESBook/prog/Prog06-01/Classes/Mesh.m
+END
+EAGLView.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mprepos/!svn/ver/610/GLESBook/trunk/GLESBook/prog/Prog06-01/Classes/EAGLView.h
+END
+Obj3D.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mprepos/!svn/ver/625/GLESBook/trunk/GLESBook/prog/Prog06-01/Classes/Obj3D.m
+END
+Loader.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mprepos/!svn/ver/616/GLESBook/trunk/GLESBook/prog/Prog06-01/Classes/Loader.h
+END
+Light.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mprepos/!svn/ver/616/GLESBook/trunk/GLESBook/prog/Prog06-01/Classes/Light.h
+END
+EAGLView.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mprepos/!svn/ver/611/GLESBook/trunk/GLESBook/prog/Prog06-01/Classes/EAGLView.m
+END
+Prog06_01AppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mprepos/!svn/ver/610/GLESBook/trunk/GLESBook/prog/Prog06-01/Classes/Prog06_01AppDelegate.h
+END
+Elem3D.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mprepos/!svn/ver/634/GLESBook/trunk/GLESBook/prog/Prog06-01/Classes/Elem3D.h
+END
+Loader.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mprepos/!svn/ver/634/GLESBook/trunk/GLESBook/prog/Prog06-01/Classes/Loader.m
+END
+Light.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mprepos/!svn/ver/634/GLESBook/trunk/GLESBook/prog/Prog06-01/Classes/Light.m
+END
+Elem3D.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mprepos/!svn/ver/616/GLESBook/trunk/GLESBook/prog/Prog06-01/Classes/Elem3D.m
+END
+Prog06_01AppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mprepos/!svn/ver/610/GLESBook/trunk/GLESBook/prog/Prog06-01/Classes/Prog06_01AppDelegate.m
+END
+ES1Renderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mprepos/!svn/ver/616/GLESBook/trunk/GLESBook/prog/Prog06-01/Classes/ES1Renderer.h
+END
+ES2Renderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mprepos/!svn/ver/610/GLESBook/trunk/GLESBook/prog/Prog06-01/Classes/ES2Renderer.h
+END
+MeshLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mprepos/!svn/ver/616/GLESBook/trunk/GLESBook/prog/Prog06-01/Classes/MeshLoader.h
+END
+ES1Renderer.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mprepos/!svn/ver/616/GLESBook/trunk/GLESBook/prog/Prog06-01/Classes/ES1Renderer.m
+END
+ES2Renderer.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mprepos/!svn/ver/610/GLESBook/trunk/GLESBook/prog/Prog06-01/Classes/ES2Renderer.m
+END
+MeshLoader.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mprepos/!svn/ver/616/GLESBook/trunk/GLESBook/prog/Prog06-01/Classes/MeshLoader.m
+END
+Obj3DLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mprepos/!svn/ver/616/GLESBook/trunk/GLESBook/prog/Prog06-01/Classes/Obj3DLoader.h
+END

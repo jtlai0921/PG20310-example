@@ -1,0 +1,97 @@
+8
+
+dir
+647
+https://www.atamaga.com/mprepos/GLESBook/trunk/GLESBook/prog/Prog06-01
+https://www.atamaga.com/mprepos
+
+
+
+2010-01-11T04:19:48.888626Z
+634
+sakai
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2be0e29a-674b-4c60-93c3-8e0fde7138ed
+
+main.m
+file
+
+
+
+
+2010-01-06T05:08:20.000000Z
+1c6624eafe6eaf7a4e15f4c7b70662e0
+2010-01-06T05:47:49.203290Z
+610
+sakai
+
+Prog06_01-Info.plist
+file
+
+
+
+
+2010-01-06T05:08:20.000000Z
+0b7c5cff346955b6276eb6e1438e7464
+2010-01-06T05:47:49.203290Z
+610
+sakai
+
+Prog06_01_Prefix.pch
+file
+
+
+
+
+2010-01-06T05:08:20.000000Z
+dfa7337c96ed076238642010073363ff
+2010-01-06T05:47:49.203290Z
+610
+sakai
+
+Prog06-01.xcodeproj
+dir
+
+sample-obj.xml
+file
+
+
+
+
+2010-01-10T17:34:27.000000Z
+8c8060a7f285fa26deb8fc7385d3c4fc
+2010-01-10T18:14:40.779352Z
+632
+sakai
+
+Shaders
+dir
+
+Classes
+dir
+
+MainWindow.xib
+file
+
+
+
+
+2010-01-06T05:08:20.000000Z
+1e273a234a05733056ce112b7dc7ce62
+2010-01-06T05:47:49.203290Z
+610
+sakai
+

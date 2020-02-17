@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object name="sample-scene">
+	<!--  一開始的攝影機
+	<camera name="default camera">
+		<angle>60</angle>
+		<aspect>0.666667</aspect>
+		<near>1</near>
+		<far>1000</far>
+		<eye>0.0, 1.0, -5.0</eye>
+		<lookat>0.0, 0.0, 0.0</lookat>
+		<up>0.0, 1.0, 0.0</up>
+	</camera>
+	-->
+	<light type="DIRECTIONAL" name="directional light">
+		<color>
+			<ambient>0.2, 0.2, 0.2, 1.0</ambient>
+			<diffuse>0.8, 0.8, 0.8, 1.0</diffuse>
+			<specular>1.0, 1.0, 1.0, 1.0</specular>
+		</color>
+		<position>0.0, 1.0, -1.0, 0.0</position>
+	</light>
+	<object name="sample-01">
+		<matrix>
+			1.0, 0.0, 0.0, 0.0,
+			0.0, 1.0, 0.0, -2.5,
+			0.0, 0.0, 1.0, 0.0,
+			0.0, 0.0, 0.0, 1.0
+		</matrix>
+		<objfile src="table-obj.xml"/>
+		<object name="tsubo2">
+			<matrix>
+				1.0, 0.0, 0.0, 0.0,
+				0.0, 1.0, 0.0, 2.0,
+				0.0, 0.0, 1.0, 0.0,
+				0.0, 0.0, 0.0, 1.0
+			</matrix>
+			<object name="scale">
+				<matrix>
+					0.1, 0.0, 0.0, 0.0,
+					0.0, 0.1, 0.0, 0.0,
+					0.0, 0.0, 0.1, 0.0,
+					0.0, 0.0, 0.0, 1.0
+				</matrix>
+				<meshfile src="tsubo2.x1.xml"/>
+			</object>
+			<object name="donuts">
+				<matrix>
+					1.0, 0.0, 0.0, 0.0,
+					0.0, 1.0, 0.0, 2.0,
+					0.0, 0.0, 1.0, 0.0,
+					0.0, 0.0, 0.0, 1.0
+				</matrix>
+				<object name="scale">
+					<matrix>
+						0.1, 0.0, 0.0, 0.0,
+						0.0, 0.1, 0.0, 0.0,
+						0.0, 0.0, 0.1, 0.0,
+						0.0, 0.0, 0.0, 1.0
+					</matrix>
+					<meshfile src="donuts.x1.xml"/>
+				</object>
+			</object>
+		</object>
+	</object>
+	<!--最後的攝影機
+	<camera name="2nd camera" active="yes">
+		<angle>90</angle>
+		<aspect>0.666667</aspect>
+		<near>1</near>
+		<far>1000</far>
+		<eye>0.0, -1.0, -5.0</eye>
+		<lookat>0.0, 0.0, 0.0</lookat>
+		<up>0.0, 1.0, 0.0</up>
+	</camera>
+	-->
+</object>

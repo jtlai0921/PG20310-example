@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object name="sample-scene">
+	<!-- ›”œäÆ–¾ -->
+	<!-- •½sŒõŒ¹
+	<light type="DIRECTIONAL" name="directional light">
+		<color>
+			<ambient>0.2, 0.2, 0.2, 1.0</ambient>
+			<diffuse>0.8, 0.8, 0.8, 1.0</diffuse>
+			<specular>1.0, 1.0, 1.0, 1.0</specular>
+		</color>
+		<position>0.0, 1.0, -1.0, 0.0</position>
+	</light>
+	-->
+	<!-- êyŒõŒ¹
+	<light type="POINT" name="point light 1">
+		<color>
+			<ambient>0.2, 0.2, 0.2, 1.0</ambient>
+			<diffuse>0.8, 0.8, 0.8, 1.0</diffuse>
+			<specular>1.0, 1.0, 1.0, 1.0</specular>
+		</color>
+		<position>1.0, 1.0, -1.0, 1.0</position>
+	</light>
+	<light type="POINT" name="point light 2">
+		<color>
+			<ambient>0.2, 0.2, 0.2, 1.0</ambient>
+			<diffuse>0.8, 0.8, 0.8, 1.0</diffuse>
+			<specular>1.0, 1.0, 1.0, 1.0</specular>
+		</color>
+		<position>-1.0, -1.0, -1.0, 1.0</position>
+	</light>
+	 -->
+	<!-- •‘‘äŒõŒ¹
+	<light type="SPOT" name="spot light">
+		<color>
+			<ambient>0.2, 0.2, 0.2, 1.0</ambient>
+			<diffuse>0.8, 0.8, 0.8, 1.0</diffuse>
+			<specular>1.0, 1.0, 1.0, 1.0</specular>
+		</color>
+		<position>0.0, 2.5, -0.3, 1.0</position>
+		<spot>
+			<direction>0.0, -1.0, 0.0</direction>
+			<exponent>5.0</exponent>
+			<cutoff>15.0</cutoff>
+		</spot>
+	</light>
+	-->
+	<object name="sample-01">
+		<matrix>
+			1.0, 0.0, 0.0, 0.0,
+			0.0, 1.0, 0.0, -2.5,
+			0.0, 0.0, 1.0, 0.0,
+			0.0, 0.0, 0.0, 1.0
+		</matrix>
+		<objfile src="table-obj.xml"/>
+		<object name="tsubo2">
+			<matrix>
+				1.0, 0.0, 0.0, 0.0,
+				0.0, 1.0, 0.0, 2.0,
+				0.0, 0.0, 1.0, 0.0,
+				0.0, 0.0, 0.0, 1.0
+			</matrix>
+			<object name="scale">
+				<matrix>
+					0.1, 0.0, 0.0, 0.0,
+					0.0, 0.1, 0.0, 0.0,
+					0.0, 0.0, 0.1, 0.0,
+					0.0, 0.0, 0.0, 1.0
+				</matrix>
+				<meshfile src="tsubo2.x1.xml"/>
+			</object>
+			<object name="donuts">
+				<matrix>
+					1.0, 0.0, 0.0, 0.0,
+					0.0, 1.0, 0.0, 2.0,
+					0.0, 0.0, 1.0, 0.0,
+					0.0, 0.0, 0.0, 1.0
+				</matrix>
+				<object name="scale">
+					<matrix>
+						0.1, 0.0, 0.0, 0.0,
+						0.0, 0.1, 0.0, 0.0,
+						0.0, 0.0, 0.1, 0.0,
+						0.0, 0.0, 0.0, 1.0
+					</matrix>
+					<meshfile src="donuts.x1.xml"/>
+				</object>
+			</object>
+		</object>
+	</object>
+</object>

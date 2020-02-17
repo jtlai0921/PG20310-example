@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object name="sample-01">
+	<matrix>
+		1.0, 0.0, 0.0, 0.0,
+		0.0, 1.0, 0.0, -2.5,
+		0.0, 0.0, 1.0, 0.0,
+		0.0, 0.0, 0.0, 1.0
+	</matrix>
+	<objfile src="table-obj.xml"/>
+	<object name="tsubo2">
+		<matrix>
+			1.0, 0.0, 0.0, 0.0,
+			0.0, 1.0, 0.0, 2.0,
+			0.0, 0.0, 1.0, 0.0,
+			0.0, 0.0, 0.0, 1.0
+		</matrix>
+		<object name="scale">
+			<matrix>
+				0.1, 0.0, 0.0, 0.0,
+				0.0, 0.1, 0.0, 0.0,
+				0.0, 0.0, 0.1, 0.0,
+				0.0, 0.0, 0.0, 1.0
+			</matrix>
+			<meshfile src="tsubo2.x1.xml"/>
+		</object>
+		<object name="donuts">
+			<matrix>
+				1.0, 0.0, 0.0, 0.0,
+				0.0, 1.0, 0.0, 2.0,
+				0.0, 0.0, 1.0, 0.0,
+				0.0, 0.0, 0.0, 1.0
+			</matrix>
+			<object name="scale">
+				<matrix>
+					0.1, 0.0, 0.0, 0.0,
+					0.0, 0.1, 0.0, 0.0,
+					0.0, 0.0, 0.1, 0.0,
+					0.0, 0.0, 0.0, 1.0
+				</matrix>
+				<meshfile src="donuts.x1.xml"/>
+			</object>
+		</object>
+	</object>
+</object>

@@ -1,0 +1,97 @@
+8
+
+dir
+647
+https://www.atamaga.com/mprepos/GLESBook/trunk/GLESBook/prog/Prog05-01
+https://www.atamaga.com/mprepos
+
+
+
+2010-01-06T08:07:03.302394Z
+614
+sakai
+
+
+svn:special svn:externals svn:needs-lock
+
+main.m
+file
+
+
+
+
+2009-12-22T03:36:06.000000Z
+a97b42e4734afc2b1fd57cf9023b4922
+2010-01-06T08:07:03.302394Z
+614
+sakai
+
+Prog05_01-Info.plist
+file
+
+
+
+
+2009-12-22T03:36:06.000000Z
+0b7c5cff346955b6276eb6e1438e7464
+2010-01-06T08:07:03.302394Z
+614
+sakai
+
+Prog05_01_Prefix.pch
+file
+
+
+
+
+2009-12-22T03:36:06.000000Z
+10a2005230e5b1ea68ee53c0617b104d
+2010-01-06T08:07:03.302394Z
+614
+sakai
+
+Prog05-01.xcodeproj
+dir
+
+sample-obj.xml
+file
+
+
+
+
+2009-12-31T11:43:28.000000Z
+2bd4a09dc7f16cb47319fbb8da4369b4
+2010-01-06T08:07:03.302394Z
+614
+sakai
+
+Shaders
+dir
+
+sample-obj-edit.xml
+file
+
+
+
+
+2009-12-31T16:57:32.000000Z
+972e66b35d921ad106dc332ea956fb68
+2010-01-06T08:07:03.302394Z
+614
+sakai
+
+Classes
+dir
+
+MainWindow.xib
+file
+
+
+
+
+2009-12-22T03:36:06.000000Z
+a7f97d9eb3c88526d1dbd6184e7434c7
+2010-01-06T08:07:03.302394Z
+614
+sakai
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object name="table-obj">
+	<matrix>
+		1.0, 0.0, 0.0, 0.0,
+		0.0, 1.0, 0.0, 0.0,
+		0.0, 0.0, 1.0, 0.0,
+		0.0, 0.0, 0.0, 1.0
+	</matrix>
+	<object name="scale">
+		<matrix>
+			0.2, 0.0, 0.0, 0.0,
+			0.0, 0.2, 0.0, 0.0,
+			0.0, 0.0, 0.2, 0.0,
+			0.0, 0.0, 0.0, 1.0
+		</matrix>
+		<meshfile src="table.x1.xml"/>
+		<meshfile src="table.x2.xml"/>
+		<meshfile src="table.x3.xml"/>
+		<meshfile src="table.x4.xml"/>
+		<meshfile src="table.x5.xml"/>
+	</object>
+</object>
